@@ -12,6 +12,6 @@ cv2
 
 Capabilities, 
 ```
-Detect Face from Photoes
+Detect Face from Photos
 Detect Face from Video using webCam
 ```
